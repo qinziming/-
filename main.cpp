@@ -19,6 +19,7 @@ int main() {
 	InitSingleList(&SL);
 	CreatSingleList(&SL);
 	Displaysinglelist(SL);
-	
-	return 0;
+	//同时在github平台同步   
+	//测试
+	return 0;    
 } 
